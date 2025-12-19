@@ -2,3 +2,21 @@
     background-color: orange;
     color: white;
 }
+.tarifs{
+    background-color: #343A40;
+    color: white;
+}
+.contacts img{
+    width: 80px;
+}
+.contacts  a{
+    color: orange;
+    text-decoration: none;
+}
+.contacts p{
+    margin: 0;
+    padding: 0;
+}
+.red-dots{
+    text-decoration: underline  orange;
+}
